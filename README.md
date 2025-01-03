@@ -1,6 +1,6 @@
-# Azur - The Protective Crypto Cat Bot 🐱
+# Azur - The Protective Crypto Cat Meme Bot 🐱
 
-Azur is a Telegram bot that helps users navigate the crypto world safely while maintaining a playful, cat-like personality. It provides crypto education, security tips, and friendly interactions.
+Azur is a meme based Telegram bot that helps users navigate the crypto world safely while maintaining a playful, cat-like personality. It provides crypto education, security tips, and friendly interactions.
 
 ## Features
 
